@@ -1,6 +1,6 @@
 # ERP-Summariser 🔍📄
 
-ERP-Summariser360 is an AI-powered document summarisation tool designed to extract key insights from ERP-related documents like procurement contracts, job descriptions, and invoices. Built with a React + Tailwind frontend and a Flask backend, this tool integrates Hugging Face's transformer models to generate meaningful summaries from PDFs and DOCX files.
+ERP-Summariser is an AI-powered document summarisation tool designed to extract key insights from ERP-related documents like procurement contracts, job descriptions, and invoices. Built with a React + Tailwind frontend and a Flask backend, this tool integrates Hugging Face's transformer models to generate meaningful summaries from PDFs and DOCX files.
 
 ## 🚀 Demo
 
