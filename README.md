@@ -31,10 +31,15 @@ ERP-Summariser360 is an AI-powered document summarisation tool designed to extra
 | AI Model  | [facebook/bart-large-cnn](https://huggingface.co/facebook/bart-large-cnn) |
 | File Parsing | PyMuPDF, python-docx       |
 
-## 🛠️ Setup Instructions
+## Setup Instructions
 
-### 1. Clone the Repo
+### 1. Prerequisites
+- Python 3.8+
+- Node.js 16+
+- Hugging Face API token (for summarization)
 
+### 2. Backend Setup
 ```bash
-git clone https://github.com/kevinfranklin03/ERP-SUMMARISER.git
-cd ERP-SUMMARISER
+cd Backend
+pip install -r requirements.txt
+python app.py
