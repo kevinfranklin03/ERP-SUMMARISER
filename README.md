@@ -42,13 +42,14 @@ ERP-Summariser360 is an AI-powered document summarisation tool designed to extra
 ```bash
 cd Backend
 pip install -r requirements.txt
-python app.py
+python app.py ```
 
 
 ```bash
 API_TOKEN = "your_hf_token_here"
 
-### 2. Frontend Setup
+
+### 3. Frontend Setup
 ```bash
 cd ../frontend
 npm install
