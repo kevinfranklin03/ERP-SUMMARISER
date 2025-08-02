@@ -4,8 +4,8 @@ ERP-Summariser360 is an AI-powered document summarisation tool designed to extra
 
 ## 🚀 Demo
 
-👉 Watch Demo Video
-https://github.com/user-attachments/assets/aaec62eb-5feb-431e-a29c-1443eeb063a2
+👉 [Watch Demo Video]
+(https://github.com/user-attachments/assets/aaec62eb-5feb-431e-a29c-1443eeb063a2)
 
 
 ## 🧠 Features
@@ -19,6 +19,9 @@ https://github.com/user-attachments/assets/aaec62eb-5feb-431e-a29c-1443eeb063a2
 - 🔄 Chunked input to bypass token limits and improve summarisation accuracy
 
 
+![App Screenshot]<img width="2555" height="1270" alt="image" src="https://github.com/user-attachments/assets/a10bff18-ae3c-4370-b4c0-ddbf1d6589ff" />
+
+<img width="2555" height="1270" alt="image" src="https://github.com/user-attachments/assets/a10bff18-ae3c-4370-b4c0-ddbf1d6589ff" />
 
 ## 🧱 Tech Stack
 
